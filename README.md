@@ -1,2 +1,2 @@
 # HydroCerrado
-Streamflow, precipitation, ref. evapotranspiration, catchments and attributes for the Cerrado biome (2000-2014)
+Daily streamflow, precipitation, ref. evapotranspiration, catchment boundaries and attributes for the Cerrado biome (2000-2014)
