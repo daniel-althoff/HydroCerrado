@@ -28,9 +28,16 @@ Even though some ottobasins characterize as interbasins, the simulated streamflo
 
 # References
 Althoff, D., Dias, S.H.B., Filgueiras, R., Rodrigues, L.N., 2020a. ETo-Brazil: A Daily Gridded Reference Evapotranspiration Data Set for Brazil - Repository. Mendeley Data V3. https://doi.org/10.17632/sstjw74ryh.3\
+
 Althoff, D., Dias, S.H.B., Filgueiras, R., Rodrigues, L.N., 2020b. ETo‐Brazil: A Daily Gridded Reference Evapotranspiration Data Set for Brazil (2000–2018). Water Resour. Res. 56. https://doi.org/10.1029/2020WR027562\
+
 Earth Resources Observation And Science Center, 2017. Shuttle Radar Topography Mission (SRTM) Void Filled. https://doi.org/10.5066/f7f76b1x\
+
 Hengl, T., Jesus, J.M. de, Heuvelink, G.B.M., Gonzalez, M.R., Kilibarda, M., Blagotić, A., Shangguan, W., Wright, M.N., Geng, X., Bauer-Marschallinger, B., Guevara, M.A., Vargas, R., MacMillan, R.A., Batjes, N.H., Leenaars, J.G.B., Ribeiro, E., Wheeler, I., Mantel, S., Kempen, B., 2017. SoilGrids250m: Global gridded soil information based on machine learning. PLoS One 12, e0169748. https://doi.org/10.1371/journal.pone.0169748\
+
 Huffman, G.J., Bolvin, D.T., Braithwaite, D., Hsu, K., Joyce, R., Kidd, C., Nelkin, E.J., Sorooshian, S., Tan, J., Xie, P., 2019a. Integrated Multi-satellitE Retrievals for GPM (IMERG) (No. Version 06), Algorithm Theoretical Basis Document. Natioanl Aeronautics and Space Administration.\
+
 Huffman, G.J., Stocker, E.F., Bolvin, D.T., Nelkin, E.J., Tan, J., 2019b. GPM IMERG Final Precipitation L3 1 day 0.1 degree x 0.1 degree V06 (No. Edited by Andrey Savtchenko). Goddard Earth Sciences Data and Information Services Center (GES DISC), Greenbelt, MD.\
+
 MapBiomas, 2020. Projeto de Mapeamento Anual da Cobertura e Uso do Solo do Brasil [In English: Brazilian Annual Land Use and Land Cover Mapping Project] [WWW Document]. MapBiomas V41. URL http://mapbiomas.org/\
+
