@@ -21,7 +21,7 @@ The catchment attributes are related to:
 Topography indices are derived from the Shuttle Radar Topography Mission (SRTM) digital elevation model at 3 arc-seconds (Earth Resources Observation And Science Center, 2017). The climate indices derived from the precipitation and reference evapotranspiration time series. Soil characteristics derived from the SoilGrids (Hengl et al., 2017) for the top 2.0 m soil layer. The land cover characteristics derived from the MapBiomas (MapBiomas, 2020). The "crop" land cover consists of the sum of annual and perennial crop, semi-perennial crops and mosaic of agriculture and pasture.
 
 ## Runoff time series simulation at ottobasins
-The data set also includes the daily streamflow time series (2003-2014) were simulated for all level 5 ottobasins withing or intersecting the Cerrado by Althoff et al. (2021).\
+The data set also includes the daily streamflow time series (2003-2014) simulated by Althoff et al. (2021) for all level 5 ottobasins within or intersecting the Cerrado.\
 *The Otto Pfafstetter classification is adopted in Brazil for the hierarchical classification of hydrologic units consisting of basins and interbasins (Furnans and Olivera, 2001).*\
 Even though some ottobasins characterize as interbasins, the simulated streamflow series is an approximation of their discharge contribution to the higher level basins they belong to.\
 (..insert ottobasins figure..)
