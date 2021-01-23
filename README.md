@@ -6,7 +6,7 @@ The HydroCerrado is a regional-sample data set for catchments within the Cerrado
 The data set was compiled by Althoff et al. (2021) and includes data from gauge stations, catchment boundaries, daily streamflow series, daily time series of meteorological forcing (precipitation and reference evapotranspiration), and catchment attributes.
 
 ### Meteorological forcing
-The time series in the data set cover the period from 2000-06-01 to 2014-12-31 for catchments with > 5 years equivalent of observed data.
+The data set covers the period from 2000-06-01 to 2014-12-31 for catchments with > 5 years equivalent of observed data.
 Daily time series are catchment averages for precipitation and reference evapotranspiration products:
 - Integrated Multi-SatellitE Retrievals for Global Precipitation Measurement (IMERG) (Huffman et al., 2019b, 2019a)
 - Gridded reference evapotranspiration for Brazil based on machine learning (ETo-Brazil) (Althoff et al., 2020a, 2020b)
