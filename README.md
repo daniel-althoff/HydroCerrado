@@ -18,7 +18,7 @@ The catchment attributes are related to:
 - Soil characteristics (clay content, silt content, sand content, organic carbon content, and bulk density)
 - Land cover characteristics (forest formation, forest plantation, savanna formation, grassland, pasture, crop, urban infrastructure, river and lake, and wetland fractions)
 
-Topography indices are derived from the Shuttle Radar Topography Mission (SRTM) digital elevation model at 3 arc-seconds (Earth Resources Observation And Science Center, 2017). The climate indices derived from the precipitation and reference evapotranspiration time series. Soil characteristics derived from the SoilGrids (Hengl et al., 2017) for the top 2.0 m soil layer. The land cover characteristics derived from the MapBiomas (MapBiomas, 2020). The "crop" land cover consists of the sum of annual and perennial crop, semi-perennial crops and mosaic of agriculture and pasture.
+Topography indices are derived from the Shuttle Radar Topography Mission (SRTM) digital elevation model at 3 arc-seconds (Earth Resources Observation And Science Center, 2017). The climate indices are derived from the precipitation and reference evapotranspiration time series. Soil characteristics are derived from the SoilGrids (Hengl et al., 2017) for the top 2.0 m soil layer. The land cover characteristics are derived from the MapBiomas (MapBiomas, 2020). The "crop" land cover consists of the sum of annual and perennial crop, semi-perennial crops and mosaic of agriculture and pasture.
 
 ## Runoff time series simulation at ottobasins
 The data set also includes the daily streamflow time series (2003-2014) simulated by Althoff et al. (2021) for all level 5 ottobasins within or intersecting the Cerrado.\
