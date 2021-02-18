@@ -1,5 +1,5 @@
 # HydroCerrado
-[..under construction..]
+Daniel Althoff*, Lineu Neiva Rodrigues, Demetrius David da Silva
 
 ## Short introduction
 The HydroCerrado is a regional-sample data set for catchments within the Cerrado biome.
