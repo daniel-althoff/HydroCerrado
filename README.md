@@ -3,7 +3,7 @@ Daniel Althoff*, Lineu Neiva Rodrigues, Demetrius David da Silva
 
 ## Short introduction
 The HydroCerrado is a regional-sample data set for catchments within the Cerrado biome.
-The data set was compiled by Althoff et al. (2021) and includes data from gauge stations, catchment boundaries, daily streamflow series, daily time series of meteorological forcing (precipitation and reference evapotranspiration), and catchment attributes.
+The data set was compiled by <a href='[https://disc.gsfc.nasa.gov/datasets/](https://doi.org/10.1016/j.envsoft.2022.105315)' target='blank'>Althoff et al. (2022)</a> and includes data from gauge stations, catchment boundaries, daily streamflow series, daily time series of meteorological forcing (precipitation and reference evapotranspiration), and catchment attributes.
 
 ### Meteorological forcing
 The data set covers the period from 2000-06-01 to 2014-12-31 for catchments with > 5 years equivalent of observed data.
@@ -26,12 +26,21 @@ The data set also includes the daily streamflow time series (2003-2019) simulate
 Even though some ottobasins characterize as interbasins, the simulated streamflow series is an approximation of their discharge contribution to the higher level basins they belong to.\
 (..insert ottobasins figure..)
 
+# Related publications
+
+Althoff, D., Rodrigues, L.N., Silva, D.D. da, 2022. Predicting runoff series in ungauged basins of the Brazilian Cerrado biome. Environmental Modelling & Software 149, 105315. https://doi.org/10.1016/j.envsoft.2022.105315
+
+Althoff, D., Rodrigues, L.N. & Silva, D.D. 2021. Assessment of water availability vulnerability in the Cerrado. Applied Water Science 11, 176. https://doi.org/10.1007/s13201-021-01521-2
+
+Althoff, D., Rodrigues, L.N., Silva, D.D. da, 2021. Addressing hydrological modeling in watersheds under land cover change with deep learning. Advances in Water Resources 154, 103965. https://doi.org/10.1016/j.advwatres.2021.103965
+
+
 # References
 Althoff, D., Dias, S.H.B., Filgueiras, R., Rodrigues, L.N., 2020a. ETo-Brazil: A Daily Gridded Reference Evapotranspiration Data Set for Brazil - Repository. Mendeley Data V3. https://doi.org/10.17632/sstjw74ryh.3
 
 Althoff, D., Dias, S.H.B., Filgueiras, R., Rodrigues, L.N., 2020b. ETo‐Brazil: A Daily Gridded Reference Evapotranspiration Data Set for Brazil (2000–2018). Water Resour. Res. 56. https://doi.org/10.1029/2020WR027562
 
-Althoff, D., Rodrigues, L.N. & Silva, D.D. 2021. Assessment of water availability vulnerability in the Cerrado. Appl Water Sci 11, 176. https://doi.org/10.1007/s13201-021-01521-2
+Althoff, D., Rodrigues, L.N., Silva, D.D. da, 2022. Predicting runoff series in ungauged basins of the Brazilian Cerrado biome. Environmental Modelling & Software 149, 105315. https://doi.org/10.1016/j.envsoft.2022.105315
 
 Earth Resources Observation And Science Center, 2017. Shuttle Radar Topography Mission (SRTM) Void Filled. https://doi.org/10.5066/f7f76b1x
 
