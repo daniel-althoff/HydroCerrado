@@ -31,7 +31,7 @@ Althoff, D., Dias, S.H.B., Filgueiras, R., Rodrigues, L.N., 2020a. ETo-Brazil: A
 
 Althoff, D., Dias, S.H.B., Filgueiras, R., Rodrigues, L.N., 2020b. ETo‐Brazil: A Daily Gridded Reference Evapotranspiration Data Set for Brazil (2000–2018). Water Resour. Res. 56. https://doi.org/10.1029/2020WR027562
 
-Althoff, D. Rodrigues, L.N., Silva, D.D. 2021. Water availability assessment in data scarce watersheds in the Brazilian Cerrado Biome [manuscript submitted for publication].
+Althoff, D., Rodrigues, L.N. & Silva, D.D. 2021. Assessment of water availability vulnerability in the Cerrado. Appl Water Sci 11, 176. https://doi.org/10.1007/s13201-021-01521-2
 
 Earth Resources Observation And Science Center, 2017. Shuttle Radar Topography Mission (SRTM) Void Filled. https://doi.org/10.5066/f7f76b1x
 
