@@ -3,7 +3,7 @@ Daniel Althoff*, Lineu Neiva Rodrigues, Demetrius David da Silva
 
 ## Short introduction
 The HydroCerrado is a regional-sample data set for catchments within the Cerrado biome.
-The data set was compiled by <a href='[https://disc.gsfc.nasa.gov/datasets/](https://doi.org/10.1016/j.envsoft.2022.105315)' target='blank'>Althoff et al. (2022)</a> and includes data from gauge stations, catchment boundaries, daily streamflow series, daily time series of meteorological forcing (precipitation and reference evapotranspiration), and catchment attributes.
+The data set was compiled by <a href='https://doi.org/10.1016/j.envsoft.2022.105315' target='blank'>Althoff et al. (2022)</a> and includes data from gauge stations, catchment boundaries, daily streamflow series, daily time series of meteorological forcing (precipitation and reference evapotranspiration), and catchment attributes.
 
 ### Meteorological forcing
 The data set covers the period from 2000-06-01 to 2014-12-31 for catchments with > 5 years equivalent of observed data.
