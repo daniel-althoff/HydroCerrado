@@ -22,9 +22,13 @@ Topography indices are derived from the Shuttle Radar Topography Mission (SRTM) 
 
 ## Runoff time series simulation at ottobasins
 The data set also includes the daily streamflow time series (2003-2019) simulated by Althoff et al. (2021) for all level 5 ottobasins within or intersecting the Cerrado.\
+
 *The Otto Pfafstetter classification is adopted in Brazil for the hierarchical classification of hydrologic units consisting of basins and interbasins (Furnans and Olivera, 2001).*\
 Even though some ottobasins characterize as interbasins, the simulated streamflow series is an approximation of their discharge contribution to the higher level basins they belong to.\
-(..insert ottobasins figure..)
+
+<div class="fluid-row" id="fig1">
+    <img src='/img/Basins.jpg' height='225' width='auto' align='center'>
+</div>
 
 # Related publications
 
